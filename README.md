@@ -7,7 +7,7 @@ A pattern library is created and used to show case all of the components needed 
 Documentation has also been provided for each components so that all developers and designers on the project are able to know each components usage and description, each component is viewable with it's HTML and CSS so that it can be copied and used where needed. 
 
 
-## navigation 
+## Navigation 
 The navigation component holds the main nav items required for navigation of a website. The number of nav items can be increased / decreased depending on the website, and it's contents. This allows for flexibility and scalability.
 
 
@@ -41,7 +41,7 @@ A carousel can be used when wanting to display more than 1 image in a slideshow 
 
 
  
-##Footer
+## Footer
 The footer acts as a secondary nav for a website and can be used as a site map. Social media links have been included.
 
 
